@@ -510,3 +510,22 @@ nav{
 }
 
 }
+
+@media(max-width:768px){
+
+.ing-{
+    top:14px;
+    left:12px;
+}
+
+#ing-{
+    width:28px;
+    height:auto;
+}
+
+.ing-{
+    margin-left:38px;
+    font-size:1rem;
+}
+
+}
